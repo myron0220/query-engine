@@ -1,7 +1,7 @@
 # query-engine
 This project demonstrates how to build a query engine, which is 'a piece of software that can execute queries against data to produce answers to questions'.  
 This project gets illustrations and is built upon another open source project, see `https://howqueryengineswork.com/01-what-is-a-query-engine.html` for more information.
-The project is categraized into two folder: jvm (currently for the actual query engine), TPC-H V3.0.1 (for the test benchmark).  
+The project is categraized into two folders: jvm (currently for the actual query engine), TPC-H V3.0.1 (for the test benchmark).  
 
 ## jvm
 ### how to start
